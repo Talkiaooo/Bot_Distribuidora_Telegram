@@ -1,7 +1,3 @@
-Un archivo README.md es fundamental: es la primera impresión que tendrá tu profesora al entrar a tu repositorio. Debe ser profesional, claro y explicar cómo ejecutar el proyecto.
-
-Aquí tienes una estructura lista para copiar y pegar en tu archivo README.md:
-
 🤖 Asistente Conversacional Inteligente (Bot de Telegram)
 Este proyecto consiste en el desarrollo de un bot de Telegram diseñado para la atención automatizada en comercios minoristas. El bot utiliza técnicas de Procesamiento de Lenguaje Natural (PLN) para clasificar intenciones de usuario y gestionar una base de conocimientos local.
 
