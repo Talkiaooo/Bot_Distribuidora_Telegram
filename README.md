@@ -30,10 +30,6 @@ python -m spacy download es_core_news_sm
 ⚙️ Configuración
 Clona este repositorio.
 
-Asegúrate de tener el archivo productos.json en la carpeta raíz.
-
-Edita el archivo bot.py e ingresa tu token de Telegram en la variable TOKEN.
-
 Ejecuta el bot:
 
 python bot.py
