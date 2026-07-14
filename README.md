@@ -25,8 +25,11 @@ Tener instalado Python 3.10+.
 Instalar las dependencias:
 
 pip install pyTelegramBotAPI
+
 pip install click
+
 pip install spacy   
+
 python -m spacy download es_core_news_sm
 
 Ejecuta el bot:
